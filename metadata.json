@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Shaf Nexus AI",
+  "description": "An advanced AI-powered software engineering workspace featuring chat assists, custom database tools, live previews, simulated git, and native Android & Flutter compiler engines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
